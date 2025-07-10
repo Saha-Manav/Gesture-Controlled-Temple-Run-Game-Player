@@ -1,6 +1,6 @@
 # 🖐️ Gesture-Controlled Temple Run Game Player
 
-Control Temple Run (or any similar web-based game like the one on [Poki.com](https://poki.com)) using your **hand gestures** and a **webcam**, with no additional hardware required.
+Control Temple Run (or any similar web-based game like the one on ([Poki.com](https://poki.com)) using your **hand gestures** and a **webcam**, with no additional hardware required.
 
 This project uses **Python**, **OpenCV**, **cvzone**, **MediaPipe**, and **Pynput** to detect specific hand gestures and map them to keyboard keys that work seamlessly with games like Temple Run.
 
