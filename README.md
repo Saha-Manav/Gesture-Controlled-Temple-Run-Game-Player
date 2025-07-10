@@ -6,12 +6,6 @@ This project uses **Python**, **OpenCV**, **cvzone**, **MediaPipe**, and **Pynpu
 
 ---
 
-## 🎥 Demo
-
-> ✋ Coming Soon: GIF or YouTube link showing gestures in action
-
----
-
 ## ✨ Features
 
 - ✌️ Peace Sign → Jump (`↑ Up arrow`)
@@ -27,8 +21,13 @@ Works in **real-time** using your webcam.
 
 ## 🛠️ Installation
 
+Make sure Python 3.7 to 3.10 is installed.
+
+Install required packages:-
+pip install opencv-python cvzone mediapipe pynput
+
 ### 1. Clone this Repository
 
 ```bash
-git clone https://github.com/yourusername/gesture-temple-run.git
-cd gesture-temple-run
+git clone https://github.com/Saha-Manav/Gesture-Controlled-Temple-Run-Game-Player.git
+cd Gesture-Controlled-Temple-Run-Game-Player
