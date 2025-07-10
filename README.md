@@ -24,8 +24,9 @@ Works in **real-time** using your webcam.
 Make sure Python 3.7 to 3.10 is installed.
 
 Install required packages:-
+```bash
 pip install opencv-python cvzone mediapipe pynput
-
+```
 ### 1. Clone this Repository
 
 ```bash
